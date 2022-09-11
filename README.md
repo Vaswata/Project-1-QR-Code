@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-![](./images/Screenshot%202022-09-06%20211004.png)
+![](./images/LiveScreenshot.png)
 
 ### Links
 
